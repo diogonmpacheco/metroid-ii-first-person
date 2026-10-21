@@ -15,13 +15,13 @@ The planned setup never requires uploading a game file to a website or sending i
 - Dark exploration, tight passages and broad caverns that follow the original chamber shapes.
 - Original enemy sprites and music, with an optional live Game Boy inset.
 - Original movement, progression, damage and firing restrictions beneath the new view.
-- Chamber lighting, source-directed cannon movement and clear combat feedback.
+- Original tile materials and weapon sprites, chamber lighting and source-directed combat feedback.
 
 Movement remains on the original two-dimensional plane. Looking around does not add independent third-axis traversal or unrestricted FPS aiming.
 
 ## Status
 
-The local **0.12 development prototype** now has an ordinary-input route through all 47 counted defeats, the Queen, the baby escape and the original ending. Original cartridge execution still supplies the gameplay and audio. This is a local campaign milestone; optional-room coverage, visual polish and a public playable release remain separate work.
+The local **0.13 development prototype** now has an ordinary-input route through all 47 counted defeats, the Queen, the baby escape and the original ending. Original cartridge execution still supplies the gameplay and audio. This is a local campaign milestone; optional-room coverage, visual polish and a public playable release remain separate work.
 
 Desktop work has focused on Apple Silicon macOS. Brief area-entry hitches remain. Switch work is deferred; no Switch build or performance result is announced.
 
@@ -38,3 +38,5 @@ Desktop work has focused on Apple Silicon macOS. Brief area-entry hitches remain
 ## Project boundary
 
 This is an independent fan project, unaffiliated with Nintendo. Metroid and the original game content belong to their respective owners. A license for the project's original runtime code will be selected before its public release; this template grants no rights to original game content.
+
+The visual direction is to experience the original game in first person. The current fidelity pass preserves the live four-tone tile artwork, replaces the custom cannon with original weapon sprites, and calibrates added cave depth from the original openings. Original X/Y dimensions remain authoritative; the original game supplies no Z depth, so that dimension remains an explicit presentation interpretation.

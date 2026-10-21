@@ -24,3 +24,9 @@ Original station saves and Continue remain authoritative. Local cartridge saves 
 ## Validation boundary
 
 Original-input replays, CPU/audio comparisons and selected GPU views guide development. Desktop frame-pacing measurements are separate from offline video exports and Switch performance. The current public scaffold contains no runnable implementation of this architecture yet.
+
+## Visual fidelity
+
+The original live tile atlas and palette provide the material images. Source-authored background tiles keep their positions; blank space can receive a depth wall extended from a nearby original structural metatile, with its source-cell provenance retained. Texture density stays tied to the original8px tile scale. The current renderer removes arbitrary cave-contour deformation and calibrates a symmetric added depth from the smaller original air span. This is a reproducible interpretation of depth, not an original hidden3D map.
+
+Weapon identification uses the original live cannon and projectile sprites. The custom3D cannon is removed. Shared original artwork, such as Spazer/Plasma, remains shared and is distinguished by its weapon name. Original firing directions, speed, collisions, ammunition and damage continue to come from the cartridge.

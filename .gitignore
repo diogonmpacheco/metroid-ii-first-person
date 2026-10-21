@@ -1,0 +1,34 @@
+# Documentation-only publication scaffold: opt files in deliberately.
+*
+!/.gitignore
+!/README.md
+!/CREDITS.md
+!/CONTRIBUTING.md
+!/docs/
+!/docs/*.md
+!/.github/
+!/.github/pull_request_template.md
+!/.github/ISSUE_TEMPLATE/
+!/.github/ISSUE_TEMPLATE/*.yml
+!/.github/workflows/
+!/.github/workflows/*.yml
+!/tools/
+!/tools/check_public_content.py
+
+# Never publish local game inputs, derived content or user state.
+*.gb
+*.gbc
+*.gba
+*.rom
+*.bin
+*.sav
+*.ram
+*.state
+*.sym
+*.png
+*.jpg
+*.mp4
+*.wav
+*.ogg
+*.zip
+.DS_Store

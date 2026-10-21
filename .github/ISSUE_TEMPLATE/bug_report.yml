@@ -1,0 +1,26 @@
+name: Prototype issue
+description: Report a reproducible issue without attaching game files.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "This public repository is currently a documentation scaffold. Do not attach ROMs, assets, saves, states or game audio."
+  - type: input
+    id: version
+    attributes:
+      label: Prototype version and platform
+      placeholder: "Version, OS, hardware; or documentation only"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: "Include the original room, controls and expected versus observed behaviour."
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional details
+      description: "A game checksum and redacted text logs are sufficient. Keep game data and personal paths out."

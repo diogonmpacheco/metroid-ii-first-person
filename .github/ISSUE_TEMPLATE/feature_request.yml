@@ -1,0 +1,21 @@
+name: Design or documentation suggestion
+description: Suggest a focused improvement.
+title: "[Suggestion] "
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: "Explain the experience or documentation problem and the desired change. Do not attach original game content."
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Documentation or setup
+        - Exploration and atmosphere
+        - Controls or combat readability
+        - Accessibility
+        - Other

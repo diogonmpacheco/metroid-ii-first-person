@@ -12,6 +12,6 @@ This public repository currently contains project documentation only. Runtime so
 - [Roadmap](roadmap.md): current scope and future milestones.
 - [Credits](../CREDITS.md): dependencies and project boundaries.
 
-The private development milestone is prototype 0.11 with a reviewed 35-defeat route. The remaining encounters, Queen and ending still need complete first-person validation. Switch work remains deferred.
+The private 0.12 development route reaches all 47 counted defeats, the Queen, the baby escape and the original ending. This does not establish complete optional-room or every-view visual coverage. The public repository remains a template, and Switch work remains deferred.
 
 [Repository home](../README.md)

@@ -1,6 +1,6 @@
 # Setup — planned workflow
 
-**There is no public installer or extraction utility yet.** These steps describe the intended release experience, not commands that work today.
+**There is no public installer or extraction utility yet.** Working tools are being checked in private development, including local cartridge validation, map extraction and a clean Python environment launch. The steps below describe the intended public release experience, not commands available from this repository today.
 
 1. Obtain your own copy of the supported original game and make it available locally.
 2. Select that file in the future local setup tool.

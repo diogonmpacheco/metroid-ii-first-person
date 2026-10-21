@@ -17,6 +17,8 @@ Chamber depth follows structural open-space spans. Low tunnels and narrow shafts
 
 The camera can look freely, but traversal stays on the original plane. Shooting retains the original permitted directions, poses and damage rules. Visor feedback reports observed damage; directional hints do not predict a successful hit.
 
+The Queen uses original background, window and sprite graphics rather than ordinary enemy metasprites; those parts are decoded separately from cave rock. Her original swallowing and stomach-bomb logic remains in the cartridge. The friendly baby clears the original crystal tiles, and the original ending is presented full screen.
+
 Original station saves and Continue remain authoritative. Local cartridge saves and preferences are separate from distributable code and assets.
 
 ## Validation boundary

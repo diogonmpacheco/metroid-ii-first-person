@@ -21,7 +21,7 @@ Movement remains on the original two-dimensional plane. Looking around does not 
 
 ## Status
 
-The local development prototype is at **0.11**. Its reviewed ordinary-input route reaches 35 of the original 47 Metroid defeats, including all three Zetas and the first Omega, and returns to an original save station. This is a development milestone, not a public release or a completed full-game claim.
+The local **0.12 development prototype** now has an ordinary-input route through all 47 counted defeats, the Queen, the baby escape and the original ending. Original cartridge execution still supplies the gameplay and audio. This is a local campaign milestone; optional-room coverage, visual polish and a public playable release remain separate work.
 
 Desktop work has focused on Apple Silicon macOS. Brief area-entry hitches remain. Switch work is deferred; no Switch build or performance result is announced.
 

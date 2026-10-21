@@ -18,10 +18,10 @@
 
 - Polish chamber scale, visibility and area-entry stalls.
 - Improve combat readability while preserving original rules.
-- Validate the remaining encounters, Queen, ending and full-game navigation.
-- Test physical controllers and fresh-install save/Continue/retry paths.
+- Broaden free-exploration and optional-room coverage beyond the route through all 47 defeats and the original ending.
+- Test physical controllers and installation on a second machine; retain original save/Continue/retry validation.
 
-The local 0.11 prototype has a reviewed route through 35 original Metroid defeats. That does not mean the full game or a public download is ready.
+The local 0.12 development route reaches all 47 counted defeats, the baby escape and the original ending. Local own-ROM setup and extraction tools have also passed a clean Python environment check without developer symbol files or a prebuilt world catalog. These tools and runtime code are not published in this documentation repository. A complete campaign route does not establish every-room presentation quality or a public release.
 
 ## Later
 
